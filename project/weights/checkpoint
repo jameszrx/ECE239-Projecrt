@@ -1,0 +1,6 @@
+model_checkpoint_path: "cnn_gru.ckpt-900"
+all_model_checkpoint_paths: "cnn_gru.ckpt-500"
+all_model_checkpoint_paths: "cnn_gru.ckpt-600"
+all_model_checkpoint_paths: "cnn_gru.ckpt-700"
+all_model_checkpoint_paths: "cnn_gru.ckpt-800"
+all_model_checkpoint_paths: "cnn_gru.ckpt-900"
